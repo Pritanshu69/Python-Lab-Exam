@@ -6,23 +6,6 @@ for i in range(65,65+rows):
     print()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #A
 #A B
 #A B C
